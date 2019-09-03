@@ -1,7 +1,6 @@
 # Explore-US-Bikeshare-Data
-Explore US Bikeshare Data using Python
 
-This project is part of Udacity Data Analyst Nanodegree program.
+This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 
 ## Overview
 
